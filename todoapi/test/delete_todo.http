@@ -1,0 +1,5 @@
+@base_url=http://localhost:8081
+
+DELETE  {{base_url}}/todos/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJBbnV3YXQiLCJleHAiOjE2Mzg2ODQ3NzR9.N-tZfbxrW2L4KW_Gmn69rAofyeZsOVCLqeFEsu1tQtA
+TransactionID: 123456xxx
